@@ -1,4 +1,4 @@
-# RhythmMaster
+# TurnUpTheBeat
 
 This is rhythm game written in Java. 
 
