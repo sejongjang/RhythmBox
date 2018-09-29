@@ -1,6 +1,6 @@
 # TurnUpTheBeat
-Developer : Saejong Jang & Hairong Hsu
-Music & note analyze : TaeHyun Kim
+- Developer : Saejong Jang & Hairong Hsu
+- Music & note analyze : TaeHyun Kim
 
 Rhythm game project written in Java.
 
